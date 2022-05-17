@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <Navbar bg='success' variant="dark" sticky="top" expand="sm">
         <Navbar.Brand>
-          <img src={logo} width="40px" height="40px"/>
+          <img src={logo} width="38px" height="40px"/>
           
         </Navbar.Brand>
 
