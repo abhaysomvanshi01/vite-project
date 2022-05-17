@@ -1,0 +1,47 @@
+.header{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     background-color: azure;
+     
+}
+
+.home{
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+
+.content{
+    text-align: justify;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+
+.about{
+    
+    
+}
+.abouttag{
+    text-decoration: none;
+    margin-left : 30px;
+}
+
+.productstag{
+    
+    
+    text-decoration: none;
+}
+
+.servicestag{
+    
+    
+    text-decoration: none;
+
+}
+.contacttag{
+    
+    
+    text-decoration: none;
+}
